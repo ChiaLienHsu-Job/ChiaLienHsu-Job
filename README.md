@@ -28,8 +28,8 @@
 ## 📫 Contact
 
 - GitHub: [ChiaLienHsu-Job](https://github.com/ChiaLienHsu-Job)  
-- LinkedIn: (建議之後補上你的 LinkedIn 連結)  
-- Email: (可以放求職專用 Email)
+- LinkedIn: [Chia-Lien Hsu](https://www.linkedin.com/in/chia-lien-hsu-404b6b84/)  
+- Email: jjimly.findjob@gmail.com
 
 ---
 
